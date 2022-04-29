@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @solomon-solz
 - 👀 I’m interested in cyber security, web development and bioinformatics
-- 🌱 I’m currently learning angilar, python
+- 🌱 I’m currently learning angular,node,mongo, python
 - 💞️ I’m looking to collaborate on angular and all javascript projects
 - 📫 How to reach me ...
 
